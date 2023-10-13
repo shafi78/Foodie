@@ -1,3 +1,3 @@
 # FOODIE
 
-<img src="./assets/welcome.png" width="200" height="500">
+<img src="./assets/welcome.png" width="300" height="500">
